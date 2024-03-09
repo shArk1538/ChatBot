@@ -3,3 +3,4 @@
 3. Procfile和fly.toml为fly.io自动配置生成的文件
 4. requirements.txt: 环境依赖项
    $ pip install -r requirements.txt
+5. 新增Git Actions
